@@ -1,8 +1,7 @@
 # Hostfully-QA-Assessment
 
 
-Automated Tests for Computer Database
-This repository contains automated tests for the Computer Database demo application.
+This repo contains automated tests for the Computer Database demo application at [here](https://computer-database.gatling.io/) 
 
 ## Installation
 To install the necessary dependencies, run the following command:
