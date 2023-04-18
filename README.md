@@ -28,8 +28,6 @@ This will run all the tests in the command line interface without opening the Te
 By default, the tests are configured to run against the demo application at https://computerdatabase.gatling.io/computers. If you need to test against a different URL, you can set the BASE_URL environment variable before running the tests:
 
 
-```npm run test```
-
 ## Dependencies 
 
 This project uses the following dependencies:
