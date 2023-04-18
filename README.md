@@ -46,7 +46,7 @@ During testing it was noticed that data wasnt properly saved: new computers were
 
 in order to create the test scenarios i had to first do an exploratory test manually to understand the application, and came up with several scenarios to automate of which i shortlisted 3 they are;
 
-Scenario 1: Adding a new computer
+### Scenario 1: Adding a new computer
 
 Given the user is on the homepage
 When the user clicks on the "Add a new computer" button
@@ -56,7 +56,7 @@ And clicks on the "Create this computer" button
 Then the user should be redirected to the homepage
 And the computer name should be displayed in a confirmation alert
 
-Scenario 2: 'Adding a new computer without computer name'
+### Scenario 2: 'Adding a new computer without computer name'
 
 Given the user is on the homepage
 When the user clicks on the "Add a new computer" button
@@ -67,7 +67,7 @@ Then the user should remain in the add computer page
 And the user should see an error indicating that the computer name is required
 
 
-Scenario 3: Editing an existing computer
+### Scenario 3: Editing an existing computer
 
 Given the user is on the homepage
 When the user clicks on the an existing computer name on the list
