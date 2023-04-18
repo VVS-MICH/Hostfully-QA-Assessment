@@ -44,7 +44,7 @@ During testing it was noticed that data wasnt properly saved: new computers were
 
 # Approach 
 
-inorder to create the test scenarios i had to first do an exploratory test manually and came up with three scenarios to automate they are 
+in order to create the test scenarios i had to first do an exploratory test manually to understand the application, and came up with several scenarios to automate of which i shortlisted 3 they are;
 
 Scenario 1: Adding a new computer
 
